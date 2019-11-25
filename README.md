@@ -1,0 +1,2 @@
+# VerificationcodeDiff
+亮色调背景与暗色调背景的验证码 图案识别检测
